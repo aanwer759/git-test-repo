@@ -1,6 +1,8 @@
 SUMMARY = "bitbake-layers recipe"
-DESCRIPTION = "Recipe created by bitbake-layers"
+DESCRIPTION = "I have changed this part to check if it really changes!, ps : adding new source folder"
 LICENSE = "MIT"
+
+
 
 python do_display_banner() {
     bb.plain("***********************************************");
